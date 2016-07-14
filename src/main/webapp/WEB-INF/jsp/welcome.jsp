@@ -17,7 +17,9 @@
 </c:choose>
 
 <div class="id">
-    <p> Another great div </p>
+	<br>
+    <a href="./form">Form</a> 
 </div>
+
 </body>
 </html>
